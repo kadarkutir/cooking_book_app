@@ -1,3 +1,7 @@
 __pycache__
 
+database.db
+dist
+node_modules
+package-lock.json
 .env
